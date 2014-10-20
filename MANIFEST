@@ -4,7 +4,7 @@ MANIFEST
 META.yml
 Makefile.PL
 README
+Readme.md
 dist.ini
 lib/WebService/MailJet.pm
-t/author-critic.t
 t/release-pod-syntax.t

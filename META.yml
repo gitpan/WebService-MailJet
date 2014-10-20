@@ -15,4 +15,7 @@ name: WebService-MailJet
 requires:
   MIME::Base64: '0'
   WebService::Client: '0'
-version: '0.001'
+resources:
+  bugtracker: https://github.com/kanishkablack/WebService-MailJet/issues
+  repository: git://github.com/kanishkablack/WebService-MailJet.git
+version: '0.002'
