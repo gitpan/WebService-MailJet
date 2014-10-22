@@ -17,5 +17,6 @@ requires:
   WebService::Client: '0'
 resources:
   bugtracker: https://github.com/kanishkablack/WebService-MailJet/issues
+  homepage: http://search.cpan.org/dist/WebService-MailJet/
   repository: git://github.com/kanishkablack/WebService-MailJet.git
-version: '0.002'
+version: '0.003'
